@@ -1,0 +1,129 @@
+  body{
+    background-image: url("../media/images/background-1702930.jpg");
+    background-color: #4f003a;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: "Press Start 2p";
+    font-size: 100px;
+}
+#navy{
+background-color: #4f003a;
+position: absolute;
+top:0px;
+left:0px;
+width: 15%;
+height: 160%;
+border:solid;
+border-color: #8f0306;
+}
+.lnav{
+    background-color: #4f003a;
+}
+/* unvisited link */
+a:link {
+    font-size: 150%;
+    margin: 2%;
+    padding: 5%;
+    color: #8f0306;
+    text-decoration: none;
+    border-radius: 10%;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #8f0306;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: darkred;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
+  i{
+    margin: 2.715%;
+    color: ;
+    padding: 3%;
+    border-radius: 20%;
+    background-color: #4f003a;
+  }
+main{
+    text-align: center;
+  }
+#social-links{
+    position: absolute;
+    top: 87%;
+    left: 20%; 
+  }
+footer{
+    position: absolute;
+    top: 155%;
+    left: 6%; 
+}
+#logo{
+    position: absolute;
+    top: 2%;
+    left: -2%;
+}
+#home{
+    padding: 5%;
+    position: absolute;
+    top:215px;
+    left:33%;
+}
+#game{
+    padding: 5%;
+    position: absolute;
+    top:293px;
+    left:33%;
+}
+#contact{
+    padding: 5%;
+    position: absolute;
+    top:370px;
+    left:33%;
+}
+#info{
+    padding: 5%;
+    position: absolute;
+    top:445px;
+    left:33%;
+}
+#termx{
+    padding: 5%;
+    position: absolute;
+    top:505px;
+    left:31.33%;
+}
+#logbar{
+background-color: #4f003a;
+position: absolute;
+top:0%;
+left:84.55%;
+width: 15%;
+height: 160%;
+border:#0e0c0c solid;
+}
+#con{
+    width:65%;
+    height: 160%;
+    position: absolute;
+    top:0%;
+    left: 17.6%;
+    background-color: #4f003a;
+    border:#0e0c0c solid;
+}
+#iframe{
+    height: 50%;
+    width: 99.3%;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    border:double #8f0306;
+}
